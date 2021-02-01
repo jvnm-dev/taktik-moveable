@@ -1,6 +1,6 @@
 {
   "name": "@taktik/moveable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Moveable is Draggable, Resizable, Scalable, Rotatable, Warpable, Pinchable, Groupable, Snappable.",
   "main": "./dist/moveable.cjs.js",
   "module": "./dist/moveable.esm.js",

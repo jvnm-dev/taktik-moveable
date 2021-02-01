@@ -1,5 +1,5 @@
 {
-  "name": "taktik-moveable",
+  "name": "@taktik/moveable",
   "version": "1.0.0",
   "description": "Moveable is Draggable, Resizable, Scalable, Rotatable, Warpable, Pinchable, Groupable, Snappable.",
   "main": "./dist/moveable.cjs.js",
@@ -84,5 +84,8 @@
     "rollup-plugin-react-compat": "0.1.0",
     "tslint": "6.1.3",
     "typescript": "3.9.7"
+  },
+  "directories": {
+    "test": "test"
   }
 }
